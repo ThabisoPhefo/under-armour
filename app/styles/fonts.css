@@ -1,0 +1,71 @@
+@font-face {
+  font-family: 'Neue Plak Text';
+  src: url('/fonts/NeuePlakText-Regular.ttf') format('truetype');
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Neue Plak Text';
+  src: url('/fonts/NeuePlakText-Bold.ttf') format('truetype');
+  font-weight: 700;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Neue Plak';
+  src: url('/fonts/NeuePlak-Regular.ttf') format('truetype');
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Neue Plak';
+  src: url('/fonts/NeuePlak-Bold.ttf') format('truetype');
+  font-weight: 700;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Neue Plak';
+  src: url('/fonts/NeuePlak-Black.ttf') format('truetype');
+  font-weight: 900;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Neue Plak Condensed';
+  src: url('/fonts/NeuePlakCondensed-Regular.ttf') format('truetype');
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Neue Plak Condensed';
+  src: url('/fonts/NeuePlakCondensed-Bold.ttf') format('truetype');
+  font-weight: 700;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Neue Plak Condensed';
+  src: url('/fonts/NeuePlakCondensed-Black.ttf') format('truetype');
+  font-weight: 900;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Neue Plak Regular';
+  src: url('/fonts/NeuePlak-Regular.woff2') format('woff2'),
+       url('/fonts/NeuePlak-Regular.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+} 

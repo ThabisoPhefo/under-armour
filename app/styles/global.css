@@ -1,0 +1,27 @@
+@font-face {
+  font-family: 'Neue Plak Condensed';
+  src: url('/fonts/Neue-Plak-CondBlack.ttf') format('truetype');
+  font-weight: 900;
+  font-style: normal;
+  font-display: swap;
+}
+
+/* Add these styles for the Swiper pagination */
+.swiper-pagination-bullet {
+  width: 8px;
+  height: 8px;
+  background: #D1D5DB;
+  opacity: 1;
+}
+
+.swiper-pagination-bullet-active {
+  background: #000000;
+}
+
+.swiper {
+  padding-bottom: 40px;
+}
+
+.section-spacing {
+  @apply md:mb-[120px] mb-[40px];
+} 

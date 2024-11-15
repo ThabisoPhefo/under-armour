@@ -1,0 +1,20 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+html,
+body {
+  @apply bg-white;
+}
+
+/* Update spacing utilities */
+.section-spacing {
+  @apply mb-[60px];
+}
+
+/* Add top spacing for sections that need it */
+.section-spacing-top {
+  @apply mt-[60px];
+}
+
+
